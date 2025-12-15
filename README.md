@@ -48,7 +48,7 @@ Moodle is provided freely as open source software, under version 3 of the GNU Ge
 [12]: https://moodledev.io/general/license
 
 ##moodle setup on aws
-Moodle configuration. /etc/apache2/sites-available/moodle.conf
-Apache configuration. sudo vim /var/www/html/moodle/config.php
-relaod after above settings. systemctl reload apache2
+#Moodle configuration path. /etc/apache2/sites-available/moodle.conf
+#Apache configuration path.  /var/www/html/moodle/config.php
+#relaod after above settings. systemctl reload apache2
 
